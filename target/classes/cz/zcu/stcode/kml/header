@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="placemark">
+		<IconStyle>
+			<color>ffFAFAFA</color>
+			<colorMode>normal</colorMode>
+			<scale>1.0</scale>  
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00FAFAFA</color>
+		</LabelStyle>
+	</Style>

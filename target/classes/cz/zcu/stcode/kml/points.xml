@@ -1,0 +1,11 @@
+<Placemark>
+<styleUrl>#placemark</styleUrl>
+	<name>${begin}</name>
+	 <TimeSpan>          
+            <begin>${begin}</begin>
+            <end>${end}</end>              
+    </TimeSpan>
+	<Point>
+		<coordinates>${lon}, ${lat}</coordinates>
+	</Point>
+</Placemark>

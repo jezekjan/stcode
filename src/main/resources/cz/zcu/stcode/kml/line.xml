@@ -1,0 +1,19 @@
+<Style id="myStyle">
+<IconStyle>
+<scale>0</scale>
+</IconStyle>
+</Style>
+<Placemark> 
+     <styleUrl>#myStyle</styleUrl>
+    <name>${name}</name>
+    <MultiGeometry> 
+        
+    <LineString>
+     <tessellate>1</tessellate>
+  <coordinates>
+   ${w1}
+  </coordinates>
+ </LineString>
+
+ </MultiGeometry> 
+</Placemark>

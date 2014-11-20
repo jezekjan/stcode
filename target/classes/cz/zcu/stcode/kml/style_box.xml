@@ -1,0 +1,26 @@
+  <Style id="Edges">
+    <LineStyle>
+      <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <Style id="FrontColor">
+    <LineStyle>
+      <color>ff000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <outline>0</outline>
+      <fill>1</fill>
+      <color>4b1400E6</color>
+    </PolyStyle>
+  </Style>
+  <Style id="BackColor">
+    <LineStyle>
+      <color>4b1400E6</color>
+    </LineStyle>
+    <PolyStyle>
+      <outline>1</outline>
+      <fill>1</fill>
+      <color>ffccb0ab</color>
+    </PolyStyle>
+  </Style>
+    <name>Model</name>

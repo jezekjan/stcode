@@ -1,0 +1,18 @@
+ <Style id="path">
+      <LineStyle>
+        <width>8</width>
+         <color>5f14F0FF</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dff0000</color>
+      </PolyStyle>
+  </Style>
+    
+<Placemark> 
+ <styleUrl>#path</styleUrl>
+  <LinearRing>
+      <coordinates>
+   ${line}
+   </coordinates>
+  </LinearRing>
+</Placemark>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="placemark">
+		<IconStyle>
+			<color>ffFAFAFA</color>
+			<colorMode>normal</colorMode>
+			<scale>1.0</scale>  
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00FAFAFA</color>
+		</LabelStyle>
+	</Style>
+  <Style id="Edges">
+    <LineStyle>
+      <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <Style id="FrontColor">
+    <LineStyle>
+      <color>ff000000</color>
+    </LineStyle>
+    <PolyStyle>
+      <outline>0</outline>
+      <fill>1</fill>
+      <color>4b1400E6</color>
+    </PolyStyle>
+  </Style>
+  <Style id="BackColor">
+    <LineStyle>
+      <color>4b1400E6</color>
+    </LineStyle>
+    <PolyStyle>
+      <outline>1</outline>
+      <fill>1</fill>
+      <color>ffccb0ab</color>
+    </PolyStyle>
+  </Style>
+    <name>Model</name>
+<name>9</name><Style id="myStyle">
+<IconStyle>
+<scale>0</scale>
+</IconStyle>
+</Style>
+<Placemark> 
+     <styleUrl>#myStyle</styleUrl>
+    <name>u8XUhjL9X</name>
+    <MultiGeometry> 
+        
+    <LineString>
+     <tessellate>1</tessellate>
+  <coordinates>
+   13.999329,49.999466
+13.999329,50.000153
+14.000702,50.000153
+14.000702,49.999466
+13.999329,49.999466
+  </coordinates>
+ </LineString>
+
+ </MultiGeometry> 
+</Placemark> </Document> </kml>
